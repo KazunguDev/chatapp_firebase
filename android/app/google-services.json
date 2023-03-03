@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724077049041",
+    "firebase_url": "https://chatapp-firebase-93661-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-firebase-93661",
+    "storage_bucket": "chatapp-firebase-93661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724077049041:android:325fa797e4aee1000b81f0",
+        "android_client_info": {
+          "package_name": "com.kazungudev.chatapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724077049041-hh27em06gas6ij9uguoom222gmcvsesj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6EORLRa0PagL3_HcYvMWtKMzn5bD4t-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724077049041-hh27em06gas6ij9uguoom222gmcvsesj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724077049041-tvjfq4hlc09bv6cpg5b2div7eku4cjba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.chatappFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
